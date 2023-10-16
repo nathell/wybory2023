@@ -1,0 +1,5 @@
+*.blob
+pl_po_okr_sejm.json
+archive/
+node_modules/
+index.html

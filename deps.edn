@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps  {skyscraper/skyscraper {:mvn/version "0.3.6"}
+         hiccup/hiccup {:mvn/version "2.0.0-alpha2"}
+         metosin/jsonista {:mvn/version "0.3.8"}}}
